@@ -3,11 +3,11 @@ Projeto da A3 UAM - Sistemas Distribuidos e Mobile
 
 Integrantes:
 
-João Victor Martins Ferrari
-Vinicius Feitosa
-Ana Beatriz 
-Deborah Marques
-Rafael 
+João Victor Martins Ferrari // 
+Vinicius Feitosa Faustino // 
+Ana Beatriz de Souza Fitipaldi // 
+Deborah Silva Marques // 
+Rafael Amici Toneloto
 
 O projeto que estamos trabalhando se trata de um sistema de gestão de estoque de concessionárias automotivas, tornando possível o gerenciamento de estoques de produtos das filiais.
 
